@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3 ⭐ Codechef
 ------------
 
-I am currently pursuing my Master's degree in Mathematics along with the hunger to learn new technologies and create something incredible out of it. I have been coding for the last 2 years and would love to make a career in this industry of opportunities. Furthermore, I am always ready to learn great things from others and if you can teach me something valuable then I would appreciate it from within my heart. I am still learning a lot of new things, and I am loving this phase of personal development a lot.
+I am currently pursuing my Master's degree in Mathematics along with the hunger to learn new technologies and create something incredible out of it. I have been coding since 2 years and would love to make a career in this industry of opportunities. Furthermore, I am always ready to learn great things from others and if you can teach me something valuable then I would appreciate it from within my heart. I am still learning a lot of new things, and I am loving this phase of personal development a lot.
 
 * 🌍  I'm based in Bhubaneswar, India
 * ✉️  You can contact me at [barikdibyasampad@gmail.com](mailto:barikdibyasampad@gmail.com)
