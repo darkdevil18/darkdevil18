@@ -37,9 +37,9 @@ I am currently pursuing my Master's degree in Mathematics along with the hunger 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=db0f1d&hide_border=true&show_icons=true" alt="darkdevil18's GitHub stats" /></a>
+<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="darkdevil18's GitHub stats" /></a>
 
-<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darkdevil18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darkdevil18&stroke=ffffff&background=1c1917&ring=db0f1d&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/darkdevil18"><img src="https://activity-graph.herokuapp.com/graph?username=darkdevil18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
