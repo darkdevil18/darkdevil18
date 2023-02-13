@@ -8,7 +8,7 @@ I am currently pursuing my Master's degree in Mathematics along with the hunger 
 
 * 🌍  I'm based in Bhubaneswar, India
 * ✉️  You can contact me at [barikdibyasampad@gmail.com](mailto:barikdibyasampad@gmail.com)
-* 🧠  I'm currently learning React.js and the MERN stack
+* 🧠  I'm currently learning Data analytics from the course provided by Google on Coursera
 * 🤝  I'm open to collaborating on Web Developement and Backend developement
 
 ### Skills
